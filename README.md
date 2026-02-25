@@ -22,3 +22,13 @@
 
 ## 📫 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/bharath-m-a37904337
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bharath-m-cs&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bharath-m-cs&theme=tokyonight" />
+</p>
