@@ -3,6 +3,9 @@
 **Java Developer in Progress | DSA Learner | CSE Student**
 
 ---
+-a37904337
+
+![](https://komarev.com/ghpvc/?username=bharath-m-cs&label=Profile%20Views&color=0e75b6&style=flat)
 ## 👨‍💻 About Me
 
 - 🎓 CSE student at VVCE, Mysore  
@@ -22,9 +25,7 @@
 ---
 
 ## 📫 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/bharath-m-a37904337
-
-![](https://komarev.com/ghpvc/?username=bharath-m-cs&label=Profile%20Views&color=0e75b6&style=flat)
+💼 LinkedIn: https://www.linkedin.com/in/bharath-m
 
 ## 📊 GitHub Stats
 
